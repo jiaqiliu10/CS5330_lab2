@@ -1,5 +1,7 @@
 # CS5330_lab2
 
+## Hugging Face Demo Link: https://huggingface.co/spaces/jiaqiliuu/CS5330_lab2
+
 #### Step1: To prepare the dataset, you should run:
 **python3 data_preparation.py**
 -This script will split the dataset into training and testing sets and save them as texture_dataset.npz
